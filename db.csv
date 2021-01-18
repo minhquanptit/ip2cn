@@ -1,0 +1,158 @@
+data,cn
+10.5.128.0/17,So giao dich
+10.44.0.0/17,Long bien
+10.46.0.0/17,Hoang mai
+10.55.128.0/17,Hong ha
+10.4.0.0/17,Thang long
+10.57.0.0/17,Trung yen
+10.254.0.0/17,Ha Thanh
+10.56.0.0/17,Trang An
+10.5.0.0/17,Lang Ha
+10.44.128.0/17,Bach Khoa
+10.39.0.0/17,My Dinh
+10.43.0.0/17,Dong Ha Noi
+10.62.0.0/17,Bac Ha Noi
+10.54.0.0/17,Hoang Quoc Viet
+10.40.0.0/17,Nam Ha Noi
+10.45.0.0/17,Tay Do
+10.40.0.0/17,Tay Ha Noi
+10.61.0.0/17,Hung Vuong
+10.41.0.0/17,Thu Do
+10.253.0.0/17,Ha Noi II
+10.10.0.0/17,Ha Noi
+10.60.0.0/17,Hoan Kiem
+10.59.0.0/17,Dong Da
+10.55.0.0/17,Tay Ho
+10.47.0.0/17,Cau Giay
+10.45.128.0/17,Tam Trinh
+10.15.0.0/17,Hai Phong
+10.15.128.0/17,Bac Hai Phong
+10.51.0.0/17,Dong Hai Phong
+10.11.128.0/17,Ha Tay I
+10.11.0.0/17,Ha Tay
+10.14.128.0/17,Hai Duong II
+10.14.0.0/17,Hai Duong
+10.17.0.0/17,Hung yen
+10.17.128.0/17,Hung yen 2
+10.6.128.0/17,Bac Giang II
+10.6.0.0/17,Bac Giang
+10.8.128.0/17,Bac Ninh 2
+10.8.0.0/17,Bac Ninh
+10.23.128.0/17,Phu Tho II
+10.23.0.0/17,Phu Tho
+10.30.128.0/17,Vinh Phuc II
+10.30.0.0/17,Vinh Phuc
+10.50.0.0/17,Me Linh
+10.13.0.0/17,Ha Nam
+10.16.0.0/17,Hoa Binh
+10.34.0.0/17,Tu Liem
+10.35.0.0/17,Gia Lam
+10.36.0.0/17,Dong Anh
+10.37.0.0/17,Soc Son
+10.38.0.0/17,Thanh Tri
+10.21.128.0/17,Bac Nam Dinh
+10.21.0.0/17,Nam Dinh
+10.21.128.0/17,Bac Nam Dinh
+10.22.0.0/17,Ninh Binh
+10.26.0.0/17,Thai Binh
+10.28.0.0/17,Thanh Hoa
+10.56.128.0/24,Nam Nghe An
+10.32.128.0/17,Tay Nghe An
+10.32.0.0/17,Nghe An
+10.31.0.0/17,Ha Tinh
+10.58.0.0/17,Lai Chau
+10.25.0.0/17,Son La
+10.24.128.0/17,Dong Quang Ninh
+10.49.0.0/17,Tay Quang Ninh
+10.24.0.0/17,Quanh Ninh
+10.24.128.0/17,Mong Cai
+10.29.0.0/17,Tuyen Quang
+10.12.0.0/17,Ha Giang
+10.9.0.0/17,Cao Bang
+10.19.0.0/17,Lang Son
+10.27.0.0/17,Thai Nguyen
+10.7.0.0/17,Bac Kan
+10.20.128.0/17,Lao Cai2
+10.20.0.0/17,Lao Cai
+10.18.0.0/17,Dien Bien
+10.83.0.0/16,Bac Quang Binh
+10.73.0.0/16,Quang Binh
+10.76.0.0/16,Quang Tri
+10.77.0.0/16,Thua Thien - Hue
+10.65.0.0/16,Da Nang
+10.74.0.0/16,Quang Nam
+10.75.0.0/16,Quang Ngai
+10.66.0.0/16,Binh Dinh
+10.72.0.0/16,Phu Yen
+10.68.0.0/16,Khanh Hoa
+10.78.0.0/16,Dak Nong
+10.67.0.0/16,Dak Lak
+10.81.0.0/16,Bac Dak Lak
+10.70.0.0/16,Gia Lai
+10.82.0.0/16,Dong Gia Lai
+10.71.0.0/16,Kon Tum
+10.129.0.0/16,Sai Gon
+10.169.0.0/24,CN 3
+10.183.0.0/16,Ly Thuong Kiet
+10.171.0.0/16,Phu Nhuan
+10.199.0.0/16,An Phu
+10.206.0.0/16,Phan Dinh Phung
+10.179.0.0/16,Truong Son
+10.174.0.0/24,CN 8
+10.129.65.0/24,CN1
+10.170.0.0/24,CN 4
+10.184.0.0/24,Tan Tao
+10.181.0.0/16,Mien Dong
+10.193.0.0/16,Hiep Phuoc
+10.152.0.0/16,Thu Duc
+10.130.0.0/16,Mac Thi Buoi
+10.153.0.0/16,Cu Chi
+10.186.0.0/16,An Suong
+10.154.0.0/16,Hoc Mon
+10.182.0.0/16,Xuyen A
+10.155.0.0/16,Nam Sai Gon
+10.156.0.0/16,Can Gio
+10.159.0.0/16,Binh Tan
+10.164.0.0/16,Binh Thanh
+10.162.0.0/16,Cho Lon
+10.190.0.0/24,Hung Vuong
+10.203.0.0/24,CN 5
+10.204.0.0/16,Thanh Do
+10.157.0.0/16,Dong Sai Gon
+10.161.0.0/16,CN 9
+10.158.0.0/16,Tay Sai Gon
+10.191.0.0/16,Bac Sai Gon
+10.160.0.0/16,Nha Be
+10.188.0.0/16,Phuoc Kien
+10.163.0.0/16,Tan Binh
+10.164.0.0/16,Binh Thanh
+10.165.0.0/24,Gia Dinh
+10.175.0.0/24,CN 10
+10.173.0.0/16,Tan Phu
+10.168.0.0/16,CN 11
+10.150.0.0/16,Can Tho
+10.131.0.0/16,Binh Thuan
+10.149.0.0/16,Ninh Thuan
+10.133.0.0/16,Lam Dong I
+10.177.0.0/16,Lam Dong II
+10.138.0.0/16,Binh Duong
+10.194.0.0/16,Song Than
+10.139.0.0/16,Binh Phuoc
+10.146.0.0/16,Tay Ninh
+10.141.0.0/16,Dong Nai
+10.196.0.0/24,Bien Hoa
+10.136.0.0/16,Ba ria Vung Tau
+10.195.0.0,Vung Tau
+10.142.0.0/16,Dong Thap
+10.144.0.0/16,Long An
+10.134.0.0/16,An Giang
+10.147.0.0/16,Tien Giang
+10.166.0.0/16,Hau Giang
+10.137.0.0/16,Ben Tre
+10.135.0.0/16,Bac Lieu
+10.148.0.0/16,Tra Vinh
+10.140.0.0/16,Ca Mau
+10.145.0.0/16,Soc Trang
+10.143.0.0/16,Kien Giang
+10.167.0.0/16,Binh Chanh
+10.201.0.0,Ninh Kieu
